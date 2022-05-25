@@ -1,0 +1,19 @@
+.background {
+    background-color:rgba(218, 25, 25, 0.876);
+    color: white;
+    padding: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 350px;
+    width: auto;
+    margin-bottom: 4px;
+}
